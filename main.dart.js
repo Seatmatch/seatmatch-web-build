@@ -114504,7 +114504,7 @@ while(true)switch(s){case 0:p=""+c
 o="https://seatmatch.ue.r.appspot.com/api/events?size="+d
 n=t.N
 s=3
-return A.L(A.ae4(A.cW(a!=null?o+"&page="+p+"&latlong="+b+"&classification="+a:o+"&page="+p+"&latlong="+b,0,null),A.af(["Authorization","Bearer "+A.h(e),"Content-Type","application/json; charset=UTF-8"],n,n)),$async$FD)
+return A.L(A.ae4(A.cW(a!=null?o+"&page="+p+"&latlong="+b+"&classificationName="+a:o+"&page="+p+"&latlong="+b,0,null),A.af(["Authorization","Bearer "+A.h(e),"Content-Type","application/json; charset=UTF-8"],n,n)),$async$FD)
 case 3:m=g
 p=m.b
 if(p===200){q=A.bfy(t.a.a(B.aC.cw(0,A.of(J.aB(A.od(m.e).c.a,"charset")).cw(0,m.w))))
