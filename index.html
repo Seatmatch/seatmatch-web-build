@@ -16,6 +16,7 @@
   -->
   <!-- <base href="/"> -->
 
+  
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="A new Flutter project.">
@@ -34,10 +35,25 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "2867102033";
+    const serviceWorkerVersion = "428683748";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
+<!-- This script adds Rudderstuck to web app -->
+  <script>
+    rudderanalytics = window.rudderanalytics = [];
+    for (var methods = ["load", "page", "track", "identify", "alias", "group", "ready", "reset", "getAnonymousId", "setAnonymousId"], i = 0; i < methods.length; i++) {
+      var method = methods[i];
+      rudderanalytics[method] = function(a) {
+        return function() {
+          rudderanalytics.push([a].concat(Array.prototype.slice.call(arguments)))
+        }
+      }(method)
+    }
+    </script>
+    
+    <script src="https://cdn.rudderlabs.com/v1/rudder-analytics.min.js"></script>
+
 </head>
 <body>
 
