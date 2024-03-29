@@ -4,9 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"version.json": "4cbe8f127326e6dc62e43df67f6c3e4f",
-"index.html": "4dd77150df580bb2706aaa72dc5fa698",
-"/": "4dd77150df580bb2706aaa72dc5fa698",
-"main.dart.js": "345213aaca341fda62e6e560af4d0f8e",
+"index.html": "023c06d4af8210f44a0884983311b8b3",
+"/": "023c06d4af8210f44a0884983311b8b3",
+"main.dart.js": "7ef72df23c1bd3773f9967cf875dff76",
+"flutter.js": "c71a09214cb6f5f8996a531350400a9a",
 "favicon.png": "e2a30daff2c76ca4995a920164506dcf",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -449,7 +450,17 @@ const RESOURCES = {"version.json": "4cbe8f127326e6dc62e43df67f6c3e4f",
 "assets/assets/images/header-image.jpg": "c2dddf98ab0175f04a5078ff057b3bd6",
 "assets/assets/images/seatmatch-logo.png": "9e5169cc98eb4bdcd90dbd1081d0768c",
 "assets/assets/images/my-event-photo.jpg": "f21679bed14179bbf503cf788ae239cf",
-"assets/assets/json/lottie-loading.json": "5358a682cadbd52d456bfaf6908b9dd4"};
+"assets/assets/json/lottie-loading.json": "5358a682cadbd52d456bfaf6908b9dd4",
+"canvaskit/skwasm.js": "445e9e400085faead4493be2224d95aa",
+"canvaskit/skwasm.js.symbols": "741d50ffba71f89345996b0aa8426af8",
+"canvaskit/canvaskit.js.symbols": "38cba9233b92472a36ff011dc21c2c9f",
+"canvaskit/skwasm.wasm": "e42815763c5d05bba43f9d0337fa7d84",
+"canvaskit/chromium/canvaskit.js.symbols": "4525682ef039faeb11f24f37436dca06",
+"canvaskit/chromium/canvaskit.js": "43787ac5098c648979c27c13c6f804c3",
+"canvaskit/chromium/canvaskit.wasm": "f5934e694f12929ed56a671617acd254",
+"canvaskit/canvaskit.js": "c86fbd9e7b17accae76e5ad116583dc4",
+"canvaskit/canvaskit.wasm": "3d2a2d663e8c5111ac61a46367f751ac",
+"canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
