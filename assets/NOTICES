@@ -2946,7 +2946,7 @@ bloc
 flutter_bloc
 
 The MIT License (MIT)
-Copyright (c) 2018 Felix Angelov
+Copyright (c) 2024 Felix Angelov
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -34740,6 +34740,7 @@ logger
 MIT License
 
 Copyright (c) 2019 Simon Leier
+Copyright (c) 2019 Harm Aarts
 Copyright (c) 2023 Severin Hamader
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -39057,6 +39058,36 @@ written or oral. This Agreement may be amended only by a written document
 signed by both parties. The terms of any purchase order or similar document
 submitted by Customer to Stream.io will have no effect.
 
+--------------------------------------------------------------------------------
+syncfusion_flutter_core
+
+Syncfusion License
+
+Syncfusion Flutter Core package is available under the Syncfusion Essential Studio program, and can be licensed either under the Syncfusion Community License Program or the Syncfusion commercial license.
+
+To be qualified for the Syncfusion Community License Program you must have a gross revenue of less than one (1) million U.S. dollars ($1,000,000.00 USD) per year and have less than five (5) developers in your organization, and agree to be bound by Syncfusion’s terms and conditions. 
+
+Customers who do not qualify for the community license can contact sales@syncfusion.com for commercial licensing options.
+
+Under no circumstances can you use this product without (1) either a Community License or a commercial license and (2) without agreeing and abiding by Syncfusion’s license containing all terms and conditions. 
+
+The Syncfusion license that contains the terms and conditions can be found at 
+https://www.syncfusion.com/content/downloads/syncfusion_license.pdf
+--------------------------------------------------------------------------------
+syncfusion_flutter_datepicker
+
+Syncfusion License
+
+Syncfusion Flutter Date Picker package is available under the Syncfusion Essential Studio program, and can be licensed either under the Syncfusion Community License Program or the Syncfusion commercial license.
+
+To be qualified for the Syncfusion Community License Program you must have a gross revenue of less than one (1) million U.S. dollars ($1,000,000.00 USD) per year and have less than five (5) developers in your organization, and agree to be bound by Syncfusion’s terms and conditions. 
+
+Customers who do not qualify for the community license can contact sales@syncfusion.com for commercial licensing options.
+
+Under no circumstances can you use this product without (1) either a Community License or a commercial license and (2) without agreeing and abiding by Syncfusion’s license containing all terms and conditions. 
+
+The Syncfusion license that contains the terms and conditions can be found at 
+https://www.syncfusion.com/content/downloads/syncfusion_license.pdf
 --------------------------------------------------------------------------------
 synchronized
 
